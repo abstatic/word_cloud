@@ -1,4 +1,4 @@
-print("hello world")
+print("My factorial programs")
 
 n = 5
 fact = 1
